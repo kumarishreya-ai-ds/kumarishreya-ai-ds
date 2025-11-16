@@ -99,12 +99,12 @@ I love building tools that make AI **useful, accessible, and powerful**.
 # 📊 **GitHub Insights**
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=kumarishreya&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarishreya&layout=compact&theme=radical&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=kumarishreya-ai-ds&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarishreya-ai-ds&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kumarishreya&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kumarishreya-ai-ds&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -117,3 +117,4 @@ I love building tools that make AI **useful, accessible, and powerful**.
 <p align="center">
   ⭐ Feel free to star & follow for more AI projects!  
 </p>
+
