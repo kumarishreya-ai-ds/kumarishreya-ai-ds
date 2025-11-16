@@ -16,15 +16,15 @@
 
 # 🌸 **About Me**
 Hi! I'm **Kumari Shreya**,  
-a **BS in Applied AI & Data Science student at IIT Jodhpur**, deeply passionate about:
+a **BS in Applied AI & Data Science student at IIT Jodhpur**, passionate about:
 
-- 🤖 **Generative AI & LLMs**
-- 📊 **Data Science & ML**
-- 🛠 **AI Tool Development**
-- 🔍 **Exploring new AI frameworks**
+- 🤖 **Generative AI & LLMs**  
+- 📊 **Data Science & ML**  
+- 🛠 **AI Tool Development**  
+- 🔍 **Exploring new AI frameworks**  
 - 🎨 Combining **creativity + AI engineering**
 
-I love building tools that make AI **useful, accessible, and powerful**.
+Currently working on projects and participating in **AI for Bharat Hackathon**, building solutions with real-world impact.
 
 ---
 
@@ -90,9 +90,8 @@ I love building tools that make AI **useful, accessible, and powerful**.
 ---
 
 # 🏆 **Achievements**
-- 🎖 *Top 10 Finalist – SARCathon @ IIT Bombay*  
-- 🎖 Cleared Round 1, Round 2 & reached **Final Round (Round 3)**  
-- 🎖 Certificate of Achievement for innovative AI ideas  
+- 🎖 **Certification** in AI & Data Science courses  
+- 🚀 Currently participating in **AI for Bharat Hackathon**, building AI solutions for real-world problems  
 
 ---
 
@@ -117,4 +116,3 @@ I love building tools that make AI **useful, accessible, and powerful**.
 <p align="center">
   ⭐ Feel free to star & follow for more AI projects!  
 </p>
-
